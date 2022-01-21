@@ -1,0 +1,10 @@
+{
+    "sys_paths":{
+        "discord":"C:/Users/GEORGE/AppData/Local/Discord/app-1.0.9003/Discord.exe",
+        "chrome":"C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s"
+    },
+    "weather":{
+        "city_name":"Bucharest,RO",
+        "weather_api":"3b213030e019be3ca2a4f3f52a48fe94"
+    }
+}
